@@ -5,7 +5,7 @@
 
 */
 
-const jobTitles = ['Developer', 'Designer', 'Manager', 'Analyst', 'Engineer'];
+const jobTitles = ['Developer', 'Designer', 'Leader', 'Analyst', 'Engineer'];
 let currentTitleIndex = 0;
 
 function updateJobTitle() {
